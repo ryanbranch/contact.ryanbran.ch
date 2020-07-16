@@ -1,3 +1,43 @@
+# Site settings
+title: Contact Ryan Branch
+email: contact.ryanbran.ch@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Created by`   
+  Ryan Branch
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://contact.ryanbran.ch" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: rjbranch
+github_username:  ryanbranch
+# Google-related
+google_fonts: false
+# Display Toggles
+footer_email: false
+
 # Build settings
 markdown: kramdown
+# Commented out the line below in order to use jekyanbranch as the base theme
+#theme: minima
 remote_theme: ryanbranch/jekyanbranch
+plugins:
+  - jekyll-feed
+  # Added to support the use of http://github.com/ryanbranch/jekyanbranch
+  # as a theme DURING LOCAL DEVELOPMENT. This line is not needed in order
+  # for a GitHub Pages repo to use another GitHub repo as a Jekyll theme.
+  - jekyll-remote-theme
+  
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+exclude:
+  - personal/
+  - sandbox/
+
+
