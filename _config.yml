@@ -1,13 +1,16 @@
 # Site settings
 title: Contact Ryan Branch
-email: contact.ryanbran.ch@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Created by`   
   Ryan Branch
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://contact.ryanbran.ch" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rjbranch
+# Contact-related
+email: contact.ryanbran.ch@gmail.com
 github_username:  ryanbranch
+linkedin_username: ryanbranch
+twitter_username: rjbranch
+
 # Google-related
 google_fonts: false
 # Display Toggles
