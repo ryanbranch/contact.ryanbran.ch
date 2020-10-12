@@ -26,7 +26,7 @@ footer_email: false
 markdown: kramdown
 # Commented out the line below in order to use jekyanbranch as the base theme
 #theme: minima
-remote_theme: ryanbranch/jekyanbranch
+remote_theme: ryanbranch/jekyanbranch@main
 plugins:
   - jekyll-feed
   # Added to support the use of http://github.com/ryanbranch/jekyanbranch
