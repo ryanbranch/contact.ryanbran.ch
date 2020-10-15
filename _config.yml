@@ -1,5 +1,6 @@
 # Site settings
 title: Contact Ryan Branch
+author: "Ryan Branch"
 description: >- # this means to ignore newlines until "baseurl:"
   Created by`   
   Ryan Branch
@@ -11,6 +12,7 @@ github_username:  ryanbranch
 linkedin_username: ryanbranch
 twitter_username: rjbranch
 orcid_id: "0000-0001-6456-3468"
+google_scholar_id: "tkVpzE4AAAAJ"
 
 # Special Characters
 right_arrow: "&#9656;"
