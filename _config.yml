@@ -9,6 +9,7 @@ url: "https://contact.ryanbran.ch" # the base hostname & protocol for your site,
 # Contact-related
 email: contact.ryanbran.ch@gmail.com
 github_username:  ryanbranch
+github_gist: true
 linkedin_username: ryanbranch
 twitter_username: rjbranch
 orcid_id: "0000-0001-6456-3468"
