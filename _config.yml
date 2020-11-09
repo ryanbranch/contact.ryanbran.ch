@@ -21,8 +21,8 @@ google_scholar_id: "tkVpzE4AAAAJ"
 right_arrow: "&#9656;"
 
 # Google-related
-google_analytics: true
-google_analytics_tracking_id: "UA-158059409-5"
+google_analytics: false
+#google_analytics_tracking_id: "UA-158059409-5"
 google_fonts: false
 # Display Toggles
 footer_email: false
